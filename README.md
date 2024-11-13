@@ -30,7 +30,7 @@ Each day includes assignments with specific learning units. Below is the breakdo
 2. **Unit 1 – Prompt Engineering**
    - [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM): [Podcast Link](https://www.youtube.com/watch?v=F_hJ2Ey4BNc)
    - **Whitepaper:** [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
-   - **Lab Assignment:** [Kaggle Code Lab: Prompting Fundamentals](#) *(Phone verification required)*
+   - **Lab Assignment:** [Kaggle Code Lab: Prompting Fundamentals](https://www.kaggle.com/code/phoenix0706/day-1-prompting) 
 
 ---
 
