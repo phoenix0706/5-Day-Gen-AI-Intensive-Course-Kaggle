@@ -26,10 +26,12 @@ Each day includes assignments with specific learning units. Below is the breakdo
 1. **Intro Unit – Foundational Large Language Models & Text Generation**
    - [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM): [Podcast Link](https://www.youtube.com/watch?v=mQDlCZZsOyo)
    - **Whitepaper:** [Foundational Large Language Models & Text Generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)
+   - **Annotated Whitepaper:** [Foundational Large Language Models & Text Generation](https://github.com/phoenix0706/5-Day-Gen-AI-Intensive-Course-Kaggle/blob/master/whitepaper_Foundational%20Large%20Language%20models%20%26%20text%20generation.pdf)
    
 2. **Unit 1 – Prompt Engineering**
    - [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM): [Podcast Link](https://www.youtube.com/watch?v=F_hJ2Ey4BNc)
    - **Whitepaper:** [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+   - **Annotated Whitepaper** [Prompt Engineering](https://github.com/phoenix0706/5-Day-Gen-AI-Intensive-Course-Kaggle/blob/master/Newwhitepaper_Prompt%20Engineering_v4.pdf)
    - **Lab Assignment:** [Kaggle Code Lab: Prompting Fundamentals](https://www.kaggle.com/code/phoenix0706/day-1-prompting) 
 
 ---
@@ -96,7 +98,7 @@ Each day includes assignments with specific learning units. Below is the breakdo
 Daily livestreams will be hosted on YouTube at 11:00 am ET, with expert discussions, Q&A, and live demos. Each session will be recorded for later viewing.
 
 - **Livestream Day 1:** [Introduction and Guest Panel Discussion](https://www.youtube.com/watch?v=kpRyiJUUFxY)
-- **Livestream Day 2:** [Deep Dive into Embeddings & Vector Databases](#)
+- **Livestream Day 2:** [Deep Dive into Embeddings & Vector Databases](https://www.youtube.com/live/86GZC56rQCc?feature=shared)
 - **Livestream Day 3:** [Optimizing Inference and Efficiency](#)
 - **Livestream Day 4:** [Fine-Tuning Techniques and Case Studies](#)
 - **Livestream Day 5:** [Real-World Applications & Best Practices Q&A](#)
