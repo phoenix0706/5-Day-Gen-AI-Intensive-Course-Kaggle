@@ -42,11 +42,13 @@ Each day includes assignments with specific learning units. Below is the breakdo
 1. **Unit 2 – Embeddings and Vector Stores/Databases**
    - [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM): [Podcast Link](https://www.youtube.com/watch?v=1CC39K76Nqs)
    - **Whitepaper:** [Embeddings and Vector Stores/Databases](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
+   - **Annotated Whitepaper:** [Embeddings and Vector Stores/Databases](https://github.com/phoenix0706/5-Day-Gen-AI-Intensive-Course-Kaggle/blob/master/Newwhitepaper_Embeddings%20%26%20vector%20stores.pdf)
+   
    
 2. **Kaggle Code Labs**
-   - **Build a RAG Question-Answering System Over Custom Documents:** [Lab Link](#)
-   - **Explore Text Similarity with Embeddings:** [Lab Link](#)
-   - **Build a Neural Classification Network with Keras Using Embeddings:** [Lab Link](#)
+   - **Build a RAG Question-Answering System Over Custom Documents:** [Lab Link](https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag)
+   - **Explore Text Similarity with Embeddings:** [Lab Link](https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores)
+   - **Build a Neural Classification Network with Keras Using Embeddings:** [Lab Link](https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras)
 
 💡 **What You’ll Learn**
    - Gain insight into embeddings and vector databases and their role in live data integration for LLM applications.
@@ -54,42 +56,43 @@ Each day includes assignments with specific learning units. Below is the breakdo
 
 ---
 
-### **Day 3: Inference Acceleration Techniques**
+### **Day 3: Generative Agents**
 
 🎒 **Today’s Assignments**
-1. **Intro Unit – Inference Acceleration**
-   - [Optional] Summary podcast episode: [Podcast Link](#)
-   - **Whitepaper:** [Inference Acceleration Techniques](#)
+1. **Unit 3 – Generative Agents**
+   - [Optional] Summary podcast episode: [Podcast Link](https://www.youtube.com/watch?v=H4gZd4BCrDQ)
+   - **Whitepaper:** [Generative AI Agents](https://www.kaggle.com/whitepaper-agents)
 
-2. **Unit 3 – Code Lab**
-   - [Optional] Summary podcast episode: [Podcast Link](#)
-   - **Lab Assignment:** [LLM Inference Optimization on Kaggle](#)
+2. **Kaggle Code Labs**
+   - **Function Calling with the Gemini API:** [Lab Link](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api)
+   - **Building an Agent with Langgraph:** [Lab Link](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/)
+   
 
 ---
 
-### **Day 4: Fine-Tuning for Specialized Tasks**
+### **Day 4: Domain Specific LLMs**
 
 🎒 **Today’s Assignments**
-1. **Intro Unit – Fine-Tuning Concepts**
-   - [Optional] Summary podcast episode: [Podcast Link](#)
-   - **Whitepaper:** [Fine-Tuning for Specialized Tasks](#)
+1. **Unit 4– Fine-Tuning Concepts**
+   - [Optional] Summary podcast episode: [Podcast Link](https://www.youtube.com/watch?v=b1a4ZOQ8XdI)
+   - **Whitepaper:** [Solving Domain Specific Problems using LLMs](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
 
-2. **Unit 4 – Code Lab**
-   - [Optional] Summary podcast episode: [Podcast Link](#)
-   - **Lab Assignment:** [Getting Started with the Gemini API](#)
+2. **Kaggle Code Labs**
+   - **Google Search Grounding:** [Lab Link](https://www.kaggle.com/code/markishere/day-4-google-search-grounding)
+   - **Fine Tuning a Custom Model:** [Lab Link](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model)
+   
 
 ---
 
-### **Day 5: Real-World Applications and Best Practices**
+### **Day 5: MLOps for Generative AI**
 
 🎒 **Today’s Assignments**
-1. **Intro Unit – Real-World Applications**
-   - [Optional] Summary podcast episode: [Podcast Link](#)
-   - **Whitepaper:** [Best Practices in Gen AI](#)
+1. **Unit 5 –MLOps for Generative AI**
+   - [Optional] Summary podcast episode: [Podcast Link](https://www.youtube.com/watch?v=k9S6IhiUUj4)
+   - **Whitepaper:** [MLOps for Generative AI](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
 
-2. **Unit 5 – Code Lab**
-   - [Optional] Summary podcast episode: [Podcast Link](#)
-   - **Lab Assignment:** [Building Real-World Gen AI Solutions](#)
+2. **Code Lab**: No code lab for today!  A code walkthrough and live demo of [goo.gle/e2e-gen-ai-app-starter-pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack) will be done.
+   
 
 ---
 
@@ -99,9 +102,9 @@ Daily livestreams will be hosted on YouTube at 11:00 am ET, with expert discussi
 
 - **Livestream Day 1:** [Introduction and Guest Panel Discussion](https://www.youtube.com/watch?v=kpRyiJUUFxY)
 - **Livestream Day 2:** [Deep Dive into Embeddings & Vector Databases](https://www.youtube.com/live/86GZC56rQCc?feature=shared)
-- **Livestream Day 3:** [Optimizing Inference and Efficiency](#)
-- **Livestream Day 4:** [Fine-Tuning Techniques and Case Studies](#)
-- **Livestream Day 5:** [Real-World Applications & Best Practices Q&A](#)
+- **Livestream Day 3:** [Generative Agents](https://www.youtube.com/live/HQUtMWoTAD4?feature=shared)
+- **Livestream Day 4:** [Domain Specific LLMs](https://www.youtube.com/live/odvuLMJWUSU?feature=shared)
+- **Livestream Day 5:** [MLOps for Generative AI](https://www.youtube.com/watch?v=uCFW0i9xrBc&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=6)
 
 ---
 
@@ -109,6 +112,7 @@ Daily livestreams will be hosted on YouTube at 11:00 am ET, with expert discussi
 
 - **Discord Channel:** [#5dgai-q-and-a](https://discord.gg/XS4YYheq) – Engage with other participants, ask questions, and receive guidance from course mentors.
 - **Announcements Channel:** [#5dgai-announcements](https://discord.gg/nAZgYA3n) – Stay updated on the latest course announcements and reminders.
+- **Self Paced Guide:** [Kaggle’s 5-Day Generative AI Intensive Course with Google Self Paced Guide](https://www.kaggle.com/learn-guide/5-day-genai?utm_medium=email&utm_source=gamma&utm_campaign=learn-5daygenai)
 
 ---
 
